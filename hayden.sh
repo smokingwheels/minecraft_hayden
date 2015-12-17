@@ -11,5 +11,5 @@ cp server.properties.txt server.properties
 cp banned-ips.json.txt banned-ips.json
 cp banned-players.json.txt banned-players.json
 sleep 5
-echo For Haydens Mincraft Server By Smokingwheels 2015 
+echo For Haydens Minecraft Server By Smokingwheels 2015 
 done
