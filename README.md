@@ -19,3 +19,6 @@ You may have to change the line cd /home/john/minecraft to match your install.
 
 Also never delete your log files...Maybe useful oneday when I write a program to extract certain info out.
 
+Put the lanuch of your server into an endless loop then op does /stop and the garbage it gone server restarts.
+
+Follow me on Twitter @smokingwheels
